@@ -2,4 +2,5 @@
 
 
 Visit the following link for instructions:
-https://www.linkedin.com/feed/update/urn:li:activity:7168453880500932608/
+
+https://dev-chronicles.tech/azure-functions-intelligent-apps-part-1
